@@ -1,0 +1,20 @@
+{
+	"title": "Imię róży",
+	"author": "Umberto Eco",
+	"description": "Czytałem dawno temu, oglądałem film",
+	"read": true
+}
+
+{
+	"title": "Ulica Nadbrzeżna",
+	"author": "John Steinbeck",
+	"description": "Planuję przeczytać w te wakacje",
+	"read": false
+}
+
+{
+	"title": "Proces",
+	"author": "Franz Kafka",
+	"description": "Pierwszy raz czytałem w liceum",
+	"read": true
+}
